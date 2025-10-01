@@ -1,0 +1,5 @@
+{
+  "name": "AI Recipe Generator",
+  "description": "Generate delicious recipes based on the ingredients you have on hand. This app uses Gemini to create unique and creative cooking instructions.",
+  "requestFramePermissions": []
+}
